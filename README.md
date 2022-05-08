@@ -1,5 +1,7 @@
 # to run project
 
+composer install
+
 npm install
 
 php artisan serve
